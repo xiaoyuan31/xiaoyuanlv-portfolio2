@@ -4,7 +4,7 @@
 :root {
   --background: #0f111a;  /* deep charcoal */
   --foreground: #e5e7eb;  /* soft off-white */
-  --accent: #dbde45;      /* teal/emerald for highlights */
+  --accent: #6b8ff3;      /* teal/emerald for highlights */
 }
 
 @media (prefers-color-scheme: dark) {
