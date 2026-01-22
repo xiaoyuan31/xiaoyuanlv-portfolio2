@@ -12,22 +12,36 @@ export default function Projects() {
 
       <div className="grid md:grid-cols-2 gap-8">
         <ProjectCard
-          title="LunaStay"
+          title="LunaStay 🌙"
           description="Real-time hotel booking app with clean architecture."
           tech={["Kotlin", "Android", "PHP", "MySQL"]}
         />
 
         <ProjectCard
-          title="Pokédex App"
+          title="Pokédex App ⚡️"
           description="Pokémon explorer using Paging 3 and modern Android stack."
-          tech={["Kotlin", "Room", "Paging 3"]}
+          tech={["Kotlin", "Hilt", "MVVM", "Room", "Paging 3"]}
         />
 
         <ProjectCard
-          title="Mood Journal"
-          description="Minimal journaling app focused on reflection and habits."
-          tech={["Next.js", "Tailwind", "TypeScript"]}
+          title="My Old Home 🏡"
+          description="Minimal My Creative Home."
+          tech={["Angular", "CSS", "JS"]}
         />
+
+        <ProjectCard
+          title="Dhammapada 🪷"
+          description="Dhamma Website and App."
+          tech={["React", "Android", "iOS"]}
+        />
+
+         <ProjectCard
+          title="Planetz 🏡"
+          description="Plant info website, android and API."
+          tech={["React", "Android"]}
+        />
+
+         
       </div>
     </section>
   );
