@@ -43,7 +43,7 @@ export default function Projects() {
           title="Planetz 🌎"
           description="Plant info website, android and API."
           tech={["React", "Android"]}
-          url="#"
+          url="https://apkpure.com/planetz/com.senlasy.planetz"
         />
 
          
