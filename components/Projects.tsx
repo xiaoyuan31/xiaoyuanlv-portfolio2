@@ -15,30 +15,35 @@ export default function Projects() {
           title="LunaStay 🌙"
           description="Real-time hotel booking app with clean architecture."
           tech={["Kotlin", "Android", "PHP", "MySQL"]}
+          url="https://drive.google.com/drive/u/0/search?q=lunastay"
         />
 
         <ProjectCard
           title="Pokédex App ⚡️"
           description="Pokémon explorer using Paging 3 and modern Android stack."
           tech={["Kotlin", "Hilt", "MVVM", "Room", "Paging 3"]}
+          url="https://github.com/xiaoyuan31/Pokedex"
         />
 
         <ProjectCard
           title="My Old Home 🏡"
           description="Minimal My Creative Home."
           tech={["Angular", "CSS", "JS"]}
+          url="https://xiaoyuan-lv.web.app"
         />
 
         <ProjectCard
           title="Dhammapada 🪷"
           description="Dhamma Website and App."
           tech={["React", "Android", "iOS"]}
+          url="https://dhammapada-reader.web.app"
         />
 
          <ProjectCard
-          title="Planetz 🏡"
+          title="Planetz 🌎"
           description="Plant info website, android and API."
           tech={["React", "Android"]}
+          url="#"
         />
 
          
